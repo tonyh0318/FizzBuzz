@@ -87,3 +87,23 @@ footer .social>a:hover {
     color: var(--ah-secondary-color);
     opacity: .90;
 }
+
+/*Styles Used for JavaScript Code*/
+.fizz {
+    font-weight: 900;
+    color: green;
+}
+
+.buzz {
+    font-weight: 900;
+    color: red;
+}
+
+.fizzBuzz {
+    font-weight: 900;
+    color: blue;
+}
+
+.regularNum {
+    font-weight: 100;
+}
